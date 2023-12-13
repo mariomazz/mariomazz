@@ -22,7 +22,7 @@ La mia esperienza lavorativa abbraccia diverse tecnologie chiave, tra cui:
 
 - [LinkedIn](https://www.linkedin.com/in/mario-mazzarelli-3749221ba/)
 - [Portfolio Personale](https://mariom.org/)
-- [Altri progetti GitHub](https://github.com/mariomazz/portfolio_mario_mazz, )
+- [Altri progetti GitHub](https://github.com/mariomazz/portfolio_mario_mazz, https://github.com/mariomazz/mvvm_patter_flutter)
 
 Sono entusiasta di condividere il mio lavoro e collaborare su progetti interessanti. Sentiti libero di esplorare il repository e contattarmi per qualsiasi domanda o opportunità di collaborazione!
 
